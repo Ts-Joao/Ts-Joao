@@ -1,10 +1,10 @@
-<h1 align="center">Olá! Eu sou o João Teixeira</h1>
+<h1 align="center">Bem-vindo ao meu Perfil!</h1>
 
 ## Sobre Mim
 - 💻 Desenvolvedor Fullstack em formação | Foco em Backend 🗄️
 - 🎯 Objetivo Profissional: Desenvolver APIs seguras, escaláveis e bem estruturadas, aplicando boas práticas de arquitetura.
-- 🎓 Estudante de **Técnico em Informática para Internet** no IFSP e **Análise e Desenvolvimento de Software** na Fatec São Sebastião.
-- 🍵 Atualmente aprofundando meus estudos em Java lendo *Aprenda Java 2*.
+- 🎓 Estudante de **Técnico em Informática para Internet** no IFSP e **Análise e Desenvolvimento de Sistemas** na Fatec São Sebastião.
+- 🏗️ Atualmente aprofundando meus estudos em Arquitetura de Sistemas lendo *Arquitetura Limpa*.
 
 ---
   
@@ -41,19 +41,19 @@
 
 ---
 
-<br>
+## 🖥️ Repositórios
 
-## 🔗 Repositórios
-Durante minha introdução ao desenvolvimento web, participei de um grupo e desenvolvemos um site web de Notícias sobre o Meio Ambiente, chamado **Nature News**<br><br>
-![Static Badge](https://img.shields.io/badge/Nature_News-27AE60?style=for-the-badge&logo=leaflet&logoColor=27AE60&labelColor=black)<br>
-🔗 Repositório -> https://github.com/Ts-Joao/NatureNews<br>
-🖥️ Deploy -> https://ts-joao.github.io/NatureNews/<br><br>
+- 🔗 [NatureNews](https://github.com/Ts-Joao/NatureNews)  
+  Portal de notícias sobre meio ambiente feito com HTML e CSS.
 
-Depois disso, nós nos aprofundamos e desenvolvemos um site web funcional com uma **API própria**. A ideia do site era criar uma rede social diferente, com **filtros personalizados no feed**,
-exibindo apenas posts que atendessem aos critérios do usuário, proporcionando uma experiência **mais dinâmica e personalizada**.<br><br>
-![Static Badge](https://img.shields.io/badge/Bubble-48C8FF?style=for-the-badge&logo=messenger&logoColor=48C8FF&labelColor=black)<br>
-🔗 Repositório Frontend -> https://github.com/Ts-Joao/Bubble_Front-End <br>
-🔗 Repositório Backend -> https://github.com/Ts-Joao/Bubble_Back-End <br><br>
+- 🔗 [Bubble - Frontend](https://github.com/Ts-Joao/Bubble_Front-End) & [Bubble - Backend](https://github.com/Ts-Joao/Bubble_Back-End)  
+  Rede Social baseada em bolhas feito com, Vite, Tailwindcss, Sequelize e Express.
+
+- 🔗 [RetroVault](https://github.com/Ts-Joao/RetroVault)  
+  E-commerce de mídia física feito com, Next.js, Tailwindcss, NestJS, Prisma e Expo.
+  
+- 🔗 [Conta Bancária](https://github.com/Ts-Joao/ContaBancaria)  
+  Sistema bancário em Java para praticar POO.
 
 ---
 
