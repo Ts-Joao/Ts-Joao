@@ -1,62 +1,191 @@
-<h1 align="center">Bem-vindo ao meu Perfil!</h1>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:0a1f3d&height=200&section=header&text=João%20Teixeira&fontColor=4FC3F7&fontSize=58&fontAlignY=62&desc=👋%20Bem-vindo%20ao%20meu%20perfil!%20·%20Backend%20Developer%20·%20API%20Craftsman&descColor=AAAAAA&descAlignY=80&animation=twinkling" width="100%"/>
 
-## Sobre Mim
-- 💻 Desenvolvedor Fullstack em formação | Foco em Backend 🗄️
-- 🎯 Objetivo Profissional: Desenvolver APIs seguras, escaláveis e bem estruturadas, aplicando boas práticas de arquitetura.
-- 🎓 Estudante de **Técnico em Informática para Internet** no IFSP e **Análise e Desenvolvimento de Sistemas** na Fatec São Sebastião.
-- 🏗️ Atualmente aprofundando meus estudos em Arquitetura de Sistemas lendo *Arquitetura Limpa*.
+<br/>
 
----
-  
 <div align="center">
 
-## 🛠️ Trabalho atualmente com...
+> Sou um desenvolvedor fullstack com foco em backend, ainda em desenvolvimento, interessado em construir APIs robustas, seguras e bem arquitetadas. Estudo na Fatec e no IFSP e curto muito a parte de arquitetura — acredito que software bem estruturado é software que dura, e é isso que me motiva a aprender mais a cada dia.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF88"/>
-  <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=FF0055"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=2D3748"/>
-  <img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=coffeescript&logoColor=C62828" />
-</p><br>
+</div>
 
-## 🔧 Já trabalhei com...
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF5722"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=52B0E7"/>
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-</p>
+<table align="center" width="80%">
+<tr>
+<td width="55%" valign="top">
 
-</div><br>
+### `> whoami`
 
----
+```yaml
+nome:       João Teixeira
+foco:       Backend · APIs · Arquitetura
+formação:
+  - IFSP · Técnico em Informática para Internet
+  - Fatec SS · Análise e Desenv. de Sistemas
+lendo:      Arquitetura Limpa — Robert C. Martin
+buscando:   APIs seguras, escaláveis e bem estruturadas
+status:     Disponível para oportunidades 🟢
+```
 
-## 🖥️ Repositórios
+</td>
+<td width="45%" align="center" valign="middle">
 
-- 🔗 [NatureNews](https://github.com/Ts-Joao/NatureNews)  
-  Portal de notícias sobre meio ambiente feito com HTML e CSS.
+<div align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280"/>
+</div>
 
-- 🔗 [Bubble - Frontend](https://github.com/Ts-Joao/Bubble_Front-End) & [Bubble - Backend](https://github.com/Ts-Joao/Bubble_Back-End)  
-  Rede Social baseada em bolhas feito com, Vite, Tailwindcss, Sequelize e Express.
-
-- 🔗 [RetroVault](https://github.com/Ts-Joao/RetroVault)  
-  E-commerce de mídia física feito com, Next.js, Tailwindcss, NestJS, Prisma e Expo.
-  
-- 🔗 [Conta Bancária](https://github.com/Ts-Joao/ContaBancaria)  
-  Sistema bancário em Java para praticar POO.
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaots-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cttjoaovts@gmail.com)
+## ⚙️ Stack Atual
+
+<br/>
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" title="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" title="Node.js"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="48" title="NestJS"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" title="React"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" title="Next.js"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="48" title="Prisma"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/expo/FFFFFF?viewbox=auto" width="48" title="Expo"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" title="Java"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🗃️ Experiência Anterior
+
+<br/>
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" title="Vite"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" title="Express"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="40" title="Sequelize"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🗂️ Projetos
+
+<br/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
+</div>
+
+<br/>
+
+<table align="center" width="80%">
+<tr>
+<td width="50%" valign="top">
+
+**🌿 NatureNews**
+
+Portal de notícias sobre meio ambiente
+
+`HTML` `CSS`
+
+🔗 [Ver repositório](https://github.com/Ts-Joao/NatureNews)
+
+</td>
+<td width="50%" valign="top">
+
+**🫧 Bubble**
+
+Rede social baseada em bolhas
+
+`Vite` `Tailwind CSS` `Express` `Sequelize`
+
+🔗 [Frontend](https://github.com/Ts-Joao/Bubble_Front-End) · [Backend](https://github.com/Ts-Joao/Bubble_Back-End)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛒 RetroVault**
+
+E-commerce de mídia física
+
+`Next.js` `Tailwind CSS` `NestJS` `Prisma` `Expo`
+
+🔗 [Ver repositório](https://github.com/Ts-Joao/RetroVault)
+
+</td>
+<td width="50%" valign="top">
+
+**🏦 Conta Bancária**
+
+Sistema bancário · Prática de POO
+
+`Java`
+
+🔗 [Ver repositório](https://github.com/Ts-Joao/ContaBancaria)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ts-Joao&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Ts-Joao&theme=dark&background=0D1117&border=4FC3F7&ring=4FC3F7&fire=FF0055&currStreakLabel=4FC3F7&sideLabels=CCCCCC&dates=CCCCCC&stroke=4FC3F7"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ts-Joao&bg_color=0D1117&color=4FC3F7&line=1565C0&point=FF0055&area=true&area_color=0a1f3d&hide_border=false"/>
+
+</div>
+
+---
+
+## 📬 Contato
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/joaots-dev/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:cttjoaovts@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" title="Gmail"/>
+</a>
+
+<br/><br/>
+
+*`clean code` · `solid principles` · `APIs que escalam` — é isso que me move.*
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a1f3d,100:0D1117&height=120&section=footer&reversal=true&animation=twinkling" width="100%"/>
