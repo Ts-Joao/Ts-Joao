@@ -4,7 +4,7 @@
 
 <div align="center">
 
-> Sou um desenvolvedor fullstack com foco em backend, ainda em desenvolvimento, interessado em construir APIs robustas, seguras e bem arquitetadas. Estudo na Fatec e no IFSP e curto muito a parte de arquitetura — acredito que software bem estruturado é software que dura, e é isso que me motiva a aprender mais a cada dia.
+> Sou um desenvolvedor fullstack com foco em backend, ainda em desenvolvimento, interessado em construir APIs robustas, seguras e bem arquitetadas. Estudo na Fatec e sou formado pelo IFSP, e curto muito a parte de arquitetura, acredito que software bem estruturado é software que dura, e é isso que me motiva a aprender mais a cada dia.
 
 </div>
 
@@ -20,8 +20,8 @@
 nome:       João Teixeira
 foco:       Backend · APIs · Arquitetura
 formação:
-  - IFSP · Técnico em Informática para Internet
   - Fatec SS · Análise e Desenv. de Sistemas
+  - IFSP · Técnico em Informática para Internet
 lendo:      Arquitetura Limpa — Robert C. Martin
 buscando:   APIs seguras, escaláveis e bem estruturadas
 status:     Disponível para oportunidades 🟢
@@ -47,14 +47,19 @@ status:     Disponível para oportunidades 🟢
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" title="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" title="Java"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" title="Node.js"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="48" title="NestJS"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" title="Spring Boot"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="48" title="Kafka"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" title="React"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" title="Next.js"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="48" title="Prisma"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/expo/FFFFFF?viewbox=auto" width="48" title="Expo"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" title="Java"/>
+<img src="https://cdn.simpleicons.org/typeorm/FE0803" width="48" title="TypeORM"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" title="Docker"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" title="GitHub Actions"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="48" title="Jest"/>
 
 </div>
 
@@ -68,14 +73,17 @@ status:     Disponível para oportunidades 🟢
 
 <div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="40" title="FastAPI"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/celery/37814A" width="40" title="Celery"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" title="Redis"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" title="Vite"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" title="Express"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="40" title="Sequelize"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
 
 </div>
 
@@ -95,31 +103,18 @@ status:     Disponível para oportunidades 🟢
 
 <table align="center" width="80%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-**🌿 NatureNews**
+**🔒 Stoki**
 
-Portal de notícias sobre meio ambiente
+Monorepo Turborepo com backend completo: auth JWT + refresh tokens, módulos de Backup (Cloudflare R2), Notifications (SSE) e Export (ExcelJS)
 
-`HTML` `CSS`
+`NestJS` `Next.js 15` `Prisma` `PostgreSQL`
 
-🔗 [Ver repositório](https://github.com/Ts-Joao/NatureNews)
-
-</td>
-<td width="50%" valign="top">
-
-**🫧 Bubble**
-
-Rede social baseada em bolhas
-
-`Vite` `Tailwind CSS` `Express` `Sequelize`
-
-🔗 [Frontend](https://github.com/Ts-Joao/Bubble_Front-End) · [Backend](https://github.com/Ts-Joao/Bubble_Back-End)
+*Repositório privado*
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 **🛒 RetroVault**
 
@@ -130,15 +125,41 @@ E-commerce de mídia física
 🔗 [Ver repositório](https://github.com/Ts-Joao/RetroVault)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 
-**🏦 Conta Bancária**
+**🚚 Fleet-Ops** · 🚧 *Em desenvolvimento*
 
-Sistema bancário · Prática de POO
+Sistema de controle de frota, com foco em DDD aplicado em TypeScript
 
-`Java`
+`NestJS` `TypeORM` `DDD` `TypeScript`
 
-🔗 [Ver repositório](https://github.com/Ts-Joao/ContaBancaria)
+🔗 [Ver repositório](https://github.com/Ts-Joao/fleet-ops)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**🧾 NovaFiscal** · 🚧 *Em desenvolvimento*
+
+Microsserviços fiscais com arquitetura hexagonal e CQRS
+
+`Java` `Spring Boot` `Kafka` `PostgreSQL` `Docker`
+
+🔗 [Ver repositório](https://github.com/Ts-Joao/novafiscal)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+**🎧 SoundDesk**
+
+Downloader assíncrono de YouTube, com fila de tasks e exportação em ZIP
+
+`FastAPI` `Celery` `Redis` `Next.js`
+
+🔗 [Ver repositório](https://github.com/Ts-Joao/SoundDesk)
 
 </td>
 </tr>
@@ -151,14 +172,6 @@ Sistema bancário · Prática de POO
 <br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ts-Joao&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Ts-Joao&theme=dark&background=0D1117&border=4FC3F7&ring=4FC3F7&fire=FF0055&currStreakLabel=4FC3F7&sideLabels=CCCCCC&dates=CCCCCC&stroke=4FC3F7"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ts-Joao&bg_color=0D1117&color=4FC3F7&line=1565C0&point=FF0055&area=true&area_color=0a1f3d&hide_border=false"/>
 
